@@ -1,0 +1,9 @@
+[submodule "webclient"]
+	path = webclient
+	url = https://github.com/KSBilodeau/webclient.git
+[submodule "webserver"]
+	path = webserver
+	url = https://github.com/KSBilodeau/webserver.git
+[submodule "webutils"]
+	path = webutils
+	url = https://github.com/KSBilodeau/webutils.git
